@@ -1,3 +1,24 @@
+/*
+Exercice 1 — Les objets JavaScript
+
+1. Créer un objet "livre" avec les propriétés :
+   - "titre"
+   - "auteur"
+   - "annee"
+   - "disponible"
+
+2. Afficher chaque propriété dans la console.
+
+3. Modifier "disponible" pour indiquer que le livre n'est plus disponible.
+
+4. Ajouter une propriété "genre".
+
+5. Supprimer la propriété "annee".
+
+6. Créer une constante "propriete = "titre"" et utiliser la notation
+   entre crochets pour afficher le titre.
+*/
+
 const livre = {
 
   titre: "JavaScript POO",
